@@ -1,0 +1,8 @@
+.allcomponent-style{ 
+    display: 'flex',
+    
+     flexWrap: 'wrap',
+
+      gap: '1rem' 
+
+}
